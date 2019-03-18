@@ -1,6 +1,6 @@
 {
-  "name": "Read PDF",
-  "description": "Read Credit History PDF",
+  "name": "LegacyBankCreditCheck",
+  "description": "Legacy Bank Credit Check",
   "main": "LegacyBankCreditCheckApplication.xaml",
   "dependencies": {
     "UiPath.PDF.Activities": "[1.1.6732.21973]",
